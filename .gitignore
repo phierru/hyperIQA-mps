@@ -1,0 +1,6 @@
+# macOS metadata
+.DS_Store
+
+# Models are too big for github
+pretrained/*
+!pretrained/.gitkeep
